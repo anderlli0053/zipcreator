@@ -1,0 +1,23 @@
+1. Agreement
+By using the software or documentation you agree to be bound by the terms and conditions of this agreement. This agreement will terminate without notice if you fail to observe any of its terms and conditions. You may terminate this agreement at any time by destroying all copies of the software and documentation as applicable. Do not use the software or documentation if you disagree with the terms and conditions of this agreement.
+
+2. Grant of license
+This license grants you the end user the following non-exclusive rights. You may use zipcreator on one or more computers and make as many printed copies of the documentation as is reasonably necessary for you to use the software. You may copy the software and documentation for backup purposes. Redistribution of the software or documentation is permitted on condition that the files are in their original unmodified form and accompanied by a visible reference or link to the zipcreator website at www.zipcreator.com.
+
+3. Restrictions
+Without prior consent you may not redistribute zipcreator with or as part of other products or services. You are prohibited from charging a fee or requesting donations for copies of zipcreator or access to the software or documentation. You may not copy, redistribute or otherwise make available for duplication the whole or any portion of the software other than as prescribed above. You may not modify, translate or create derivative works from the software or documentation. You may not reverse engineer or decompile the software. You may not sell, sub-license, rent or lease the whole or any portion of the software or documentation. Do not use the software or documentation if there is a potential risk of injury or death arising from its use or misuse.
+
+4. Warranty
+This version of zipcreator is distributed as free software. Use of the software and documentation is entirely at your own risk. The software and documentation are provided "as is" without warranties of any kind.
+
+5. Liability
+You expressly agree that in no event shall the developers or authors be liable for any damages whatsoever arising from the use or inability to use the software or documentation. This includes without limitation damages for loss of goodwill, loss of profits, loss of data, business interruption or other consequential, special or indirect losses.
+
+6. Intellectual property
+The software and documentation are owned by Simon Hurst and Nick Hurst. You acknowledge that no title to or ownership of the software or documentation is transferred to you or any third party by this agreement.
+
+7. Law
+If any of the provisions in this agreement are declared void or unenforceable by any judicial authority then the validity of the remaining provisions shall not be affected. This agreement shall be governed by and construed in accordance with the laws of England and Wales. Both parties submit to the non-exclusive jurisdiction of English Courts.
+
+Web:   www.zipcreator.com
+Email: feedback@zipcreator.com
